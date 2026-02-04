@@ -1,0 +1,1 @@
+TL;DR: ERP implementation often fails due to poor planning, weak data practices, and resistance to change. Indian SME manufacturers can reduce risk by planning integrations, training teams, and choosing flexible systems.
